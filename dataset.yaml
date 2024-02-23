@@ -1,0 +1,15 @@
+names:
+  '0': go
+  '1': warning
+  '2': stop
+nc: 3
+path: /content/drive/MyDrive/dataset/reduced_dataset
+test:
+  images: images/test
+  labels: labels/test
+train:
+  images: images/train
+  labels: labels/train
+val:
+  images: images/val
+  labels: labels/val
